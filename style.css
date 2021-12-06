@@ -30,4 +30,5 @@ body {
 .loading-text{
   font-size: 50px;
   color: #fff;
+  cursor: default;
 }
